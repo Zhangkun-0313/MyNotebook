@@ -1,6 +1,6 @@
 # MrDcheng's Notebook
 
-Try using "Issues" to keep and organize notes, essays and extensive content, about life, technology and hobbies.
+Try using "Issues" to keep and organize notes, excerpts and essays, about life, technology and hobbies.
 
 ## The declaration of creation
 

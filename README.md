@@ -12,9 +12,9 @@ Technology opens up the future, mentality determines life.
 ---
 <div align="center">
   <strong>
-    <img src="https://github.com/clxering/MyNotebook/blob/master/github.svg" width="24" height="24">&nbsp;<a href="https://github.com/clxering">GitHub</a>&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/clxering/MyNotebook/blob/master/twitter.svg" width="24" height="24">&nbsp;<a href="https://twitter.com/realDcheng"><strong>Twitter</strong></a>&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com/clxering/MyNotebook/blob/master/gmail.svg" width="24" height="24">&nbsp;<a href="MailTo:clxering@gmail.com"><strong>E-Mail</strong></a>&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/clxering/MyNotebook/blob/master/pic/github.svg" width="24" height="24">&nbsp;<a href="https://github.com/clxering">GitHub</a>&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/clxering/MyNotebook/blob/master/pic/twitter.svg" width="24" height="24">&nbsp;<a href="https://twitter.com/realDcheng"><strong>Twitter</strong></a>&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com/clxering/MyNotebook/blob/master/pic/gmail.svg" width="24" height="24">&nbsp;<a href="MailTo:clxering@gmail.com"><strong>E-Mail</strong></a>&nbsp;&nbsp;&nbsp;
   </strong>
 </div>
 
